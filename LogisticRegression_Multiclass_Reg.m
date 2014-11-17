@@ -10,8 +10,6 @@
 %     lrCostFunction.m (logistic regression cost function)
 %     oneVsAll.m
 %     predictOneVsAll.m
-%     predict_multiclass.m
-%
 
 %% Initialization
 clear ; close all; clc
